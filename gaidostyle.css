@@ -1,0 +1,36 @@
+p {
+color: #1F2326;
+text-align:left;
+font-size:18px;
+font-family:Montserrat;
+}
+H1 {
+color: #59192A;
+text-align:center;
+font-size:32px;
+font-family:Noto Sans;
+text-decoration:underline;
+}
+H2 {
+color: #59192A;
+text-align:left;
+font-size:22px;
+font-family:Noto Sans;
+}
+body {
+background-color:white;
+background-image: url('https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: bottom center;
+  background-size:cover;
+}
+div.transbox {
+  margin: 90px;
+  background-color: rgba(242,215,208,0.8);
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
